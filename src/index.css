@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+
+  --color-sensia-aqua: #00D6B6;
+  --color-sensia-yellow: #FFD203;
+  --color-sensia-orange: #FE5D0A;
+  --color-sensia-blue: #0042FD;
+  --color-sensia-black: #000000;
+  --color-sensia-white: #FFFFFF;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: #000000;
+    background-color: #FFFFFF;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+    font-weight: 800;
+    text-wrap: balance;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

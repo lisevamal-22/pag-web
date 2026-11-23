@@ -1,0 +1,1265 @@
+# PROMPT MAESTRO — DESARROLLO WEB COMPLETO DE SENSIA LABs
+
+## Proyecto de diseño, desarrollo, UX/UI, motion graphics, investigación del consumidor y captación de clientes
+
+Actúa como un equipo multidisciplinar formado por:
+
+- Director creativo digital.
+- Director de arte especializado en diseño editorial.
+- Diseñador UX/UI especializado en diseño cognitivo.
+- Especialista en neuromarketing y comportamiento del consumidor.
+- Diseñador de motion graphics.
+- Especialista en conversión y captación de clientes.
+- Desarrollador frontend senior.
+- Especialista en accesibilidad, SEO y rendimiento web.
+
+Tu objetivo es diseñar y desarrollar la web corporativa completa de **SENSIA LABs**.
+
+No quiero una landing page convencional, una plantilla genérica ni una web que únicamente muestre bloques de texto.
+
+Quiero una experiencia digital profesional, minimalista, experimental, visual e interactiva, con una identidad reconocible y una portada protagonizada por una pieza de motion graphics fluida.
+
+La web debe funcionar como un laboratorio digital que permita descubrir cómo piensan, sienten, perciben y deciden las personas.
+
+Además, debe tener una función comercial clara: ayudar a los prospectos a identificar qué necesitan investigar y conducirlos hacia el servicio adecuado.
+
+**IMPORTANTE: desarrolla una web real, navegable, responsive y funcional. No te limites a generar una descripción, un prototipo textual o una imagen de cómo sería. Implementa el diseño y muestra la web renderizada.**
+
+---
+
+# 1. CONTEXTO Y POSICIONAMIENTO DE MARCA
+
+SENSIA LABs es una marca especializada en investigación del consumidor, neuromarketing, percepción, procesos cognitivos, comportamiento humano y experiencia de marca.
+
+Su objetivo es ayudar a las empresas a comprender qué hay detrás de las decisiones de las personas y transformar ese conocimiento en oportunidades estratégicas.
+
+Áreas de especialización:
+
+- Investigación del consumidor.
+- Neuromarketing.
+- Percepción humana.
+- Comportamiento del consumidor.
+- Procesos cognitivos.
+- Atención y respuesta emocional.
+- Marketing sensorial.
+- Experiencia de marca.
+- Investigación de marca.
+- Interpretación de insights.
+- Estrategia basada en conocimiento del consumidor.
+
+**Concepto de marca:**
+
+«Entender lo que no siempre se ve».
+
+**Personalidad:**
+
+- Científica.
+- Curiosa.
+- Experimental.
+- Creativa.
+- Estratégica.
+- Inteligente.
+- Profesional.
+- Cercana.
+
+La comunicación debe transmitir conocimiento y autoridad sin resultar fría, distante ni excesivamente académica.
+
+## Público objetivo
+
+La web está dirigida principalmente a:
+
+- Empresarios y directivos.
+- Responsables de marketing.
+- Departamentos de marketing.
+- Marcas de productos y servicios.
+- Empresas que quieren conocer mejor a sus consumidores.
+- Negocios que quieren mejorar su posicionamiento y experiencia de cliente.
+- Profesionales que necesitan investigar un problema concreto de percepción o comportamiento.
+
+**Regla fundamental de comunicación:**
+
+El prospecto no tiene por qué conocer términos como neuromarketing, investigación perceptual, procesos cognitivos o análisis conductual.
+
+Normalmente conoce su problema, su necesidad o lo que quiere conseguir.
+
+Por eso, la web debe traducir sus necesidades empresariales a servicios de investigación concretos.
+
+No obligues al visitante a elegir entre nombres técnicos que desconoce.
+
+Primero pregunta qué quiere mejorar. Después recomienda el servicio correspondiente.
+
+---
+
+# 2. MANUAL DE IDENTIDAD VISUAL — ARCHIVO GDD.PNG
+
+Utiliza el archivo adjunto `gdd.png` como manual de marca obligatorio.
+
+No inventes una identidad visual alternativa.
+
+## 2.1. Logotipos oficiales
+
+El manual contiene tres elementos:
+
+### Logotipo principal
+
+Texto SENSIA LABs en negro, acompañado de la mancha multicolor orgánica.
+
+Uso:
+- Cabecera.
+- Footer.
+- Firma de marca.
+- Aplicaciones corporativas.
+
+### Submarca
+
+Letra S mayúscula negra, con la tipografía de la marca y la mancha multicolor detrás.
+
+Uso:
+- Favicon.
+- Avatar.
+- Elementos reducidos.
+- Aplicaciones digitales.
+
+### Isotipo
+
+Mancha simétrica multicolor inspirada en la percepción y la interpretación.
+
+Uso:
+- Recursos gráficos.
+- Experiencias interactivas.
+- Separadores.
+- Fondos.
+- Elementos visuales secundarios.
+
+**Normas obligatorias:**
+
+- Utiliza los archivos originales cuando estén disponibles.
+- No deformes los logotipos.
+- No alteres sus proporciones.
+- No modifiques la tipografía.
+- No sustituyas la mancha por formas genéricas.
+- No inventes versiones alternativas.
+- No animes los logotipos.
+- Mantén los recursos originales estáticos.
+
+## 2.2. Paleta oficial
+
+| Color | Código |
+|---|---|
+| Aguamarina | #00D6B6 |
+| Amarillo | #FFD203 |
+| Naranja | #FE5D0A |
+| Azul rey | #0042FD |
+| Blanco | #FFFFFF |
+| Negro | #000000 |
+
+El negro y el blanco serán los colores estructurales.
+
+El azul rey tendrá una presencia importante en la identidad digital y especialmente en la portada.
+
+El aguamarina, amarillo y naranja funcionarán como acentos.
+
+No utilices todos los colores simultáneamente en cada composición.
+
+Los degradados de la mancha original deben tener transiciones suaves, integradas y sin franjas visibles.
+
+## 2.3. Tipografía
+
+Utiliza exclusivamente:
+
+- Montserrat ExtraBold: titulares principales, palabras monumentales y composiciones tipográficas.
+- Manrope: navegación, subtítulos, párrafos, botones, etiquetas y textos de interfaz.
+
+Mantén una jerarquía tipográfica consistente.
+
+---
+
+# 3. DIRECCIÓN CREATIVA Y LENGUAJE VISUAL
+
+La web debe combinar tres universos:
+
+1. Laboratorio de investigación.
+2. Diseño editorial experimental.
+3. Experiencia digital interactiva.
+
+Utiliza como referencias visuales los materiales adjuntos:
+
+- La referencia editorial de diseño tecnológico, por su composición, escala tipográfica y uso de grandes bloques visuales.
+- La referencia de motion graphics azul, por sus píxeles, cuadrículas, geometrías, formas modulares y estética digital experimental.
+- El brandboard de SENSIA LABs, que determina la identidad y los recursos oficiales.
+
+No copies literalmente las referencias. Adapta sus recursos a SENSIA LABs.
+
+## Recursos gráficos
+
+- Tipografía de gran formato.
+- Geometrías modulares.
+- Cuadrículas.
+- Píxeles.
+- Puntos y partículas.
+- Formas abstractas.
+- Líneas de conexión.
+- Diagramas.
+- Texturas digitales.
+- Grandes bloques de color.
+- Mancha multicolor original.
+
+## Composición
+
+Utiliza:
+
+- Asimetría controlada.
+- Contrastes entre blanco y negro.
+- Grandes espacios negativos.
+- Titulares monumentales.
+- Imágenes y recursos gráficos de gran formato.
+- Pequeños módulos informativos.
+- Elementos superpuestos cuando tengan sentido.
+- Composiciones editoriales que rompan la monotonía.
+
+Evita:
+
+- Plantillas corporativas genéricas.
+- Exceso de tarjetas.
+- Interfaces excesivamente redondeadas.
+- Decoración sin función.
+- Exceso de colores simultáneos.
+- Animaciones constantes.
+- Fotografía de stock genérica.
+- Estética futurista cliché.
+- Circuitos electrónicos decorativos.
+- Hologramas.
+- Efectos de inteligencia artificial genéricos.
+
+La web debe parecer diseñada por un estudio digital profesional.
+
+---
+
+# 4. PRINCIPIOS UX/UI Y DISEÑO COGNITIVO
+
+La web de SENSIA LABs debe aplicar los mismos principios que la marca estudia.
+
+La experiencia debe ser muy interactiva, pero con baja carga cognitiva.
+
+Aplica:
+
+- Jerarquía visual clara.
+- Una idea principal por sección.
+- Una acción prioritaria por pantalla.
+- Agrupación por proximidad.
+- Contraste suficiente.
+- Espacio en blanco.
+- Consistencia visual.
+- Navegación predecible.
+- Reconocimiento frente a recuerdo.
+- Información progresiva.
+- Feedback inmediato.
+- Accesibilidad.
+- Legibilidad.
+- Reducción de elementos innecesarios.
+
+No presentes demasiadas opciones simultáneamente.
+
+Agrupa la información por categorías.
+
+Utiliza titulares descriptivos.
+
+El visitante debe comprender rápidamente qué hace SENSIA LABs, qué puede investigar y cómo puede solicitar ayuda.
+
+La interactividad debe aportar descubrimiento, no confusión.
+
+---
+
+# 5. ARQUITECTURA WEB MULTIPÁGINA
+
+No desarrolles una landing page con scroll infinito.
+
+Construye una web con páginas independientes, rutas propias y navegación funcional.
+
+## Rutas
+
+- `/` — Inicio.
+- `/servicios` — Qué hacemos.
+- `/metodologia` — Metodología.
+- `/proyectos` — Proyectos.
+- `/laboratorio` — Laboratorio de percepción.
+- `/insights` — SENSIA Insights.
+- `/faq` — Preguntas frecuentes.
+- `/contacto` — Contacto.
+
+Cada página tendrá:
+
+- Contenido propio.
+- Estructura específica.
+- URL independiente.
+- Título y metadatos propios.
+- Navegación funcional.
+- Diseño responsive.
+
+Todas compartirán un sistema visual coherente.
+
+## Navegación
+
+INICIO  
+QUÉ HACEMOS  
+METODOLOGÍA  
+PROYECTOS  
+LABORATORIO  
+INSIGHTS  
+FAQ
+
+Botón comercial destacado:
+
+**HABLEMOS DE TU PROYECTO**
+
+En móvil, implementa un menú hamburguesa funcional.
+
+---
+
+# 6. HOMEPAGE — PORTADA DE ALTO IMPACTO VISUAL
+
+Esta es la parte más importante de la web.
+
+La primera pantalla debe generar curiosidad, transmitir profesionalidad y comunicar rápidamente la propuesta de valor.
+
+## 6.1. HERO: MOTION GRAPHICS
+
+No utilices una fotografía como protagonista.
+
+La portada estará protagonizada por una pieza de motion graphics abstracta inspirada en la referencia digital azul adjunta.
+
+Quiero una composición que parezca una pieza de motion design creada por un estudio especializado.
+
+Representará visualmente:
+
+- Procesamiento de información.
+- Percepción.
+- Atención.
+- Conexiones.
+- Interpretación.
+- Comportamiento humano.
+- Transformación de estímulos en decisiones.
+
+## Lenguaje visual
+
+Utiliza:
+
+- Cuadrículas.
+- Píxeles.
+- Cuadrados.
+- Rectángulos.
+- Puntos.
+- Formas modulares.
+- Geometrías abstractas.
+- Formas orgánicas.
+- Texturas digitales.
+- Degradados.
+- Elementos que se agrupan y se separan.
+
+El azul rey #0042FD tendrá protagonismo.
+
+Combínalo con blanco, negro y pequeños acentos de aguamarina, amarillo y naranja.
+
+## Movimiento
+
+El movimiento debe ser continuo, orgánico y fluido.
+
+No quiero una sucesión de animaciones independientes.
+
+Quiero una pieza visual en la que los elementos parezcan formar parte de un mismo sistema.
+
+Comportamientos deseados:
+
+- Los píxeles se agrupan gradualmente.
+- Las cuadrículas se reorganizan.
+- Los cuadrados se transforman.
+- Los elementos se fusionan.
+- Las formas se separan y vuelven a conectarse.
+- Las geometrías se deforman sutilmente.
+- Los colores cambian progresivamente.
+- Los elementos se desplazan mediante trayectorias suaves.
+
+Evita:
+
+- Cortes bruscos.
+- Saltos entre escenas.
+- Franjas de color.
+- Parpadeos.
+- Cambios repentinos.
+- Movimientos robóticos.
+- Rebotes exagerados.
+- Efectos glitch constantes.
+- Velocidades excesivas.
+
+La animación debe tener continuidad espacial y temporal.
+
+## Composición
+
+- Logotipo principal estático en la parte superior izquierda.
+- Navegación minimalista.
+- CTA comercial visible.
+- Gran composición de motion graphics.
+- Titular de gran tamaño.
+- Texto secundario breve.
+- CTA principal y secundario.
+
+Titular:
+
+**OBSERVAR.  
+SENTIR.  
+DECIDIR.**
+
+Texto secundario:
+
+Investigamos cómo las personas perciben, sienten y toman decisiones para ayudar a las marcas a comprender mejor a sus consumidores.
+
+CTA principal:
+
+**DESCUBRE QUÉ PODEMOS INVESTIGAR →**
+
+CTA secundario:
+
+**HABLEMOS DE TU PROYECTO**
+
+La animación ocupará aproximadamente el 65-75 % del protagonismo visual de la primera pantalla.
+
+El titular debe ser legible y no competir con el movimiento.
+
+## Implementación
+
+Desarrolla una animación real mediante Canvas, SVG, WebGL, Three.js o CSS avanzado, según lo que ofrezca mejor rendimiento.
+
+Debe:
+
+- Reproducirse en bucle sin saltos visibles.
+- Cargar progresivamente.
+- No bloquear la navegación.
+- Responder sutilmente al cursor si resulta adecuado.
+- Tener una versión optimizada para móvil.
+- Respetar `prefers-reduced-motion`.
+- Tener una alternativa estática.
+
+El logotipo permanece completamente estático.
+
+---
+
+# 7. HOMEPAGE — SECCIONES
+
+## 7.1. INVESTIGAMOS LO QUE NO SIEMPRE SE VE
+
+Fondo negro.
+
+Titular:
+
+**INVESTIGAMOS LO QUE NO SIEMPRE SE VE.**
+
+Texto:
+
+Detrás de cada decisión existen procesos, percepciones, emociones y experiencias que merece la pena comprender.
+
+Presenta cuatro conceptos interactivos:
+
+01. ATENCIÓN  
+02. PERCEPCIÓN  
+03. EMOCIÓN  
+04. DECISIÓN
+
+Al seleccionar cada concepto, muestra una explicación breve.
+
+## 7.2. EL PROBLEMA DEL CLIENTE
+
+Titular:
+
+**¿CONOCES REALMENTE A LAS PERSONAS QUE COMPRAN TU MARCA?**
+
+Explica que los datos de ventas muestran qué ocurre, pero investigar al consumidor permite comprender qué hay detrás de sus decisiones.
+
+Preguntas:
+
+- ¿Por qué eligen tu producto?
+- ¿Qué hace que recuerden tu marca?
+- ¿Qué capta su atención?
+- ¿Qué influye en sus decisiones?
+
+## 7.3. QUÉ HACEMOS
+
+Presenta los servicios:
+
+1. Investigación del consumidor.
+2. Neuromarketing y percepción.
+3. Comportamiento y toma de decisiones.
+4. Marketing sensorial y experiencias.
+5. Investigación de marca.
+6. Insights y estrategia.
+
+Cada servicio debe explicar qué investigamos, qué problema ayuda a comprender y qué información puede aportar.
+
+Incluye interacciones desplegables.
+
+## 7.4. EXPERIENCIA DE PERCEPCIÓN
+
+Titular:
+
+**NO TODOS VEMOS LO MISMO.**
+
+Presenta un estímulo visual ambiguo.
+
+El visitante selecciona qué interpreta.
+
+Después muestra una explicación divulgativa sobre cómo el contexto, las expectativas y las experiencias previas pueden influir en la percepción.
+
+No lo presentes como diagnóstico ni test psicológico.
+
+## 7.5. METODOLOGÍA
+
+Titular:
+
+**DE LA CURIOSIDAD AL CONOCIMIENTO.**
+
+Presenta:
+
+01. OBSERVAR.  
+02. COMPRENDER.  
+03. INTERPRETAR.  
+04. TRANSFORMAR.
+
+Cada fase debe poder seleccionarse para descubrir sus objetivos y actividades.
+
+## 7.6. PROYECTOS
+
+Galería editorial con filtros:
+
+- Todos.
+- Investigación.
+- Neuromarketing.
+- Percepción.
+- Experiencia de marca.
+
+No inventes clientes, resultados, porcentajes ni testimonios.
+
+## 7.7. SENSIA INSIGHTS
+
+Titular:
+
+**UNA PREGUNTA PUEDE CAMBIARLO TODO.**
+
+Presenta artículos sobre investigación, neuromarketing, percepción, comportamiento y curiosidades.
+
+CTA:
+
+**EXPLORAR SENSIA INSIGHTS →**
+
+## 7.8. CTA FINAL
+
+Fondo negro o azul rey.
+
+Titular:
+
+**TU PRÓXIMA DECISIÓN PUEDE EMPEZAR CON UNA PREGUNTA.**
+
+Texto:
+
+Cuéntanos qué quieres descubrir de tus consumidores y exploremos cómo investigarlo.
+
+CTA:
+
+**HABLEMOS DE TU PROYECTO →**
+
+---
+
+# 8. FUNCIONALIDAD DIFERENCIAL: TRADUCTOR DE NECESIDADES A SERVICIOS
+
+Esta funcionalidad es prioritaria.
+
+Quiero que desarrolles un asistente interactivo que ayude a los prospectos a descubrir qué servicio de SENSIA LABs necesitan.
+
+## 8.1. CONCEPTO
+
+No preguntes directamente:
+
+«¿Qué servicio necesitas?»
+
+El visitante probablemente no conoce los términos técnicos.
+
+En su lugar, pregunta:
+
+**¿QUÉ QUIERES DESCUBRIR DE TUS CONSUMIDORES?**
+
+Texto secundario:
+
+No necesitas conocer nuestros servicios. Cuéntanos qué quieres mejorar y te ayudamos a encontrar el punto de partida.
+
+El usuario seleccionará una necesidad expresada en lenguaje cotidiano.
+
+El sistema traducirá esa necesidad al servicio correspondiente.
+
+## 8.2. UBICACIÓN
+
+Incluye esta herramienta:
+
+- En la homepage, como sección destacada.
+- En la página de servicios.
+- Como punto de entrada al formulario de contacto.
+
+En la homepage debe aparecer después de explicar brevemente qué hace SENSIA LABs.
+
+También debe existir un acceso visible desde la navegación o desde un CTA.
+
+## 8.3. INTERFAZ DEL ASISTENTE
+
+Diseña una experiencia limpia, intuitiva y visual.
+
+Titular:
+
+**¿QUÉ QUIERES MEJORAR DE TU MARCA?**
+
+Texto:
+
+Selecciona aquello que te preocupa. Nosotros te ayudamos a descubrir qué podemos investigar.
+
+Presenta las necesidades como opciones seleccionables, no como un formulario técnico.
+
+Opciones iniciales:
+
+1. Quiero mejorar cómo perciben mi marca mis clientes.
+2. Quiero saber por qué mis clientes eligen a la competencia.
+3. Quiero que mi publicidad capte más atención.
+4. Quiero entender qué sienten los consumidores cuando ven mi producto.
+5. Quiero mejorar la experiencia en mi establecimiento.
+6. Quiero saber por qué mi producto no consigue convencer.
+7. Quiero mejorar el diseño de mis envases.
+8. Quiero saber qué mensaje conecta mejor con mi público.
+9. Quiero conocer mejor a mi público objetivo.
+10. Quiero mejorar la experiencia de mis clientes.
+11. Quiero saber qué influye en la decisión de compra.
+12. Quiero descubrir nuevas oportunidades para mi marca.
+
+Añade una opción:
+
+**No encuentro exactamente lo que necesito.**
+
+Al seleccionarla, permite escribir libremente el reto empresarial.
+
+## 8.4. MOTOR DE RECOMENDACIÓN
+
+Implementa una lógica real de correspondencia entre necesidades y servicios.
+
+No utilices respuestas aleatorias.
+
+Cada opción debe conducir a una recomendación fundamentada.
+
+### Correspondencias iniciales
+
+| Necesidad del prospecto | Servicio recomendado |
+|---|---|
+| Mejorar cómo perciben mi marca mis clientes | Investigación de marca y percepción |
+| Saber por qué mis clientes eligen a la competencia | Investigación del consumidor y comportamiento |
+| Conseguir que mi publicidad capte más atención | Neuromarketing y atención |
+| Comprender qué sienten los consumidores ante mi producto | Investigación de percepción y respuesta emocional |
+| Mejorar la experiencia de mi establecimiento | Marketing sensorial y experiencia de marca |
+| Entender por qué mi producto no convence | Investigación del consumidor y toma de decisiones |
+| Mejorar el diseño de mis envases | Investigación de percepción visual y packaging |
+| Saber qué mensaje conecta mejor con mi público | Investigación de comunicación y percepción |
+| Conocer mejor a mi público objetivo | Investigación del consumidor |
+| Mejorar la experiencia de mis clientes | Investigación de experiencia de cliente |
+| Entender qué influye en la decisión de compra | Comportamiento del consumidor y procesos de decisión |
+| Descubrir nuevas oportunidades | Investigación exploratoria e identificación de insights |
+
+Estas correspondencias son iniciales y orientativas.
+
+El sistema debe poder sugerir más de un área cuando una necesidad incluya varios problemas.
+
+No fuerces una única respuesta si el caso requiere combinar servicios.
+
+## 8.5. RESULTADO PERSONALIZADO
+
+Cuando el usuario seleccione una necesidad, muestra una pantalla de resultado.
+
+Ejemplo:
+
+**TU PUNTO DE PARTIDA**
+
+Servicio recomendado:
+
+INVESTIGACIÓN DE MARCA Y PERCEPCIÓN.
+
+Descripción:
+
+Analizamos las asociaciones, impresiones y percepciones que genera tu marca para comprender si la imagen que proyectas coincide con la que perciben tus consumidores.
+
+Incluye:
+
+- Qué podemos investigar.
+- Qué preguntas podemos responder.
+- Qué tipo de metodología podría utilizarse.
+- Qué información puede obtener la empresa.
+
+Añade una pregunta de seguimiento:
+
+**¿Qué te gustaría cambiar o comprender de tu marca?**
+
+Campo de texto opcional para ampliar la necesidad.
+
+Botones:
+
+- QUIERO EXPLORAR ESTE SERVICIO.
+- VER OTROS SERVICIOS.
+- CAMBIAR MI RESPUESTA.
+
+## 8.6. PREGUNTAS DE SEGUIMIENTO
+
+Después de recomendar el servicio, puedes hacer una o dos preguntas adicionales para entender mejor el problema.
+
+Ejemplo:
+
+Necesidad: mejorar cómo perciben mi marca mis clientes.
+
+Pregunta:
+
+**¿Qué te gustaría descubrir?**
+
+Opciones:
+
+- Qué imagen tienen actualmente de mi marca.
+- Qué valores asocian con ella.
+- Si mi posicionamiento se entiende.
+- Qué diferencia mi marca de la competencia.
+- Qué debería mejorar.
+
+La recomendación debe actualizarse si la nueva respuesta cambia el problema principal.
+
+No conviertas la experiencia en un cuestionario interminable.
+
+Máximo tres pasos antes de mostrar una recomendación clara.
+
+## 8.7. CTA PERSONALIZADO
+
+Una vez mostrada la recomendación:
+
+**¿LO INVESTIGAMOS JUNTOS?**
+
+Texto:
+
+Cuéntanos un poco más sobre tu reto y estudiaremos cómo abordarlo.
+
+CTA:
+
+**HABLEMOS DE TU PROYECTO →**
+
+Al pulsar, lleva al formulario de contacto y conserva:
+
+- Necesidad seleccionada.
+- Servicio recomendado.
+- Respuestas adicionales.
+- Descripción del problema.
+
+El usuario no debe tener que repetir la información.
+
+## 8.8. ALTERNATIVA PARA NECESIDADES COMPLEJAS
+
+Si el usuario no sabe qué necesita, permite escribir una descripción libre.
+
+Ejemplo:
+
+«Tengo una tienda de alimentación y quiero entender por qué la gente entra, mira los productos y finalmente compra en otro establecimiento».
+
+El sistema debe identificar el problema y ofrecer una recomendación orientativa.
+
+Si se utiliza inteligencia artificial para clasificar la necesidad:
+
+- No inventes información.
+- No prometas diagnósticos.
+- Explica que la recomendación es orientativa.
+- Permite corregir la clasificación.
+- Mantén una alternativa de correspondencias predefinidas si no existe conexión con un modelo de IA.
+- No envíes información personal sin consentimiento.
+
+## 8.9. DISEÑO DEL ASISTENTE
+
+La interfaz debe ser minimalista.
+
+Utiliza:
+
+- Opciones grandes y legibles.
+- Pocas decisiones por pantalla.
+- Progreso visual discreto.
+- Selección clara.
+- Feedback inmediato.
+- Transiciones suaves.
+- Jerarquía tipográfica.
+- Espacio en blanco.
+
+No utilices un chatbot genérico como interfaz principal.
+
+Quiero un asistente visual guiado, con opciones concretas y resultados comprensibles.
+
+La experiencia debe sentirse como una herramienta de orientación de SENSIA LABs.
+
+---
+
+# 9. PÁGINA QUÉ HACEMOS — SERVICIOS
+
+Crea una página independiente.
+
+Hero:
+
+**INVESTIGAR PARA COMPRENDER. COMPRENDER PARA DECIDIR.**
+
+Desarrolla:
+
+### Investigación del consumidor
+Motivaciones, necesidades, hábitos, expectativas, barreras y decisiones de compra.
+
+### Neuromarketing y percepción
+Atención, percepción visual, respuesta emocional, interpretación de mensajes y estímulos.
+
+### Comportamiento y toma de decisiones
+Sesgos cognitivos, hábitos, procesos de elección y factores contextuales.
+
+### Marketing sensorial y experiencias
+Estímulos sensoriales, puntos de contacto y experiencia de marca.
+
+### Investigación de marca
+Asociaciones, posicionamiento percibido, identidad y experiencia.
+
+### Insights y estrategia
+Interpretación de resultados, detección de oportunidades y recomendaciones.
+
+Para cada servicio incluye:
+
+- Descripción.
+- Objetivos.
+- Qué se puede investigar.
+- Posibles técnicas.
+- Entregables orientativos.
+- CTA.
+
+Incluye el asistente de necesidades descrito anteriormente.
+
+No presentes todas las técnicas como aplicables a todos los proyectos. La metodología dependerá del objetivo.
+
+---
+
+# 10. PÁGINA METODOLOGÍA
+
+Desarrolla el proceso:
+
+OBSERVAR → COMPRENDER → INTERPRETAR → TRANSFORMAR.
+
+Diseña una línea de progreso interactiva.
+
+Al seleccionar cada fase, muestra:
+
+- Objetivo.
+- Actividades.
+- Preguntas que responde.
+- Resultados de la fase.
+
+Incluye:
+
+**Cada pregunta necesita una metodología adecuada.**
+
+Explica que el diseño de investigación depende del problema, el público y los objetivos.
+
+---
+
+# 11. PÁGINA PROYECTOS
+
+Diseña un portfolio editorial.
+
+Utiliza fotografías conceptuales, imágenes de gran formato y tipografía de gran escala.
+
+Filtros funcionales:
+
+- Todos.
+- Investigación.
+- Neuromarketing.
+- Percepción.
+- Experiencia de marca.
+
+Cada proyecto tendrá:
+
+1. Contexto.
+2. Reto.
+3. Objetivo.
+4. Metodología.
+5. Hallazgos.
+6. Aplicación estratégica.
+
+No inventes proyectos, clientes, métricas ni resultados.
+
+Si no hay casos reales disponibles, utiliza ejemplos conceptuales identificados claramente como demostraciones.
+
+---
+
+# 12. PÁGINA LABORATORIO DE PERCEPCIÓN
+
+Esta será una de las páginas diferenciales de SENSIA LABs.
+
+Debe funcionar como un espacio de experimentación divulgativa.
+
+Desarrolla cuatro experiencias:
+
+### Experimento 1: ¿Qué ves primero?
+
+Presenta una composición con varios estímulos visuales.
+
+El usuario selecciona el primero que ha percibido.
+
+### Experimento 2: ¿Qué elegirías?
+
+Presenta dos alternativas visuales y permite seleccionar una.
+
+### Experimento 3: ¿Qué recuerdas?
+
+Muestra una composición durante un intervalo breve y después pregunta qué elementos recuerda el visitante.
+
+### Experimento 4: ¿Qué cambia cuando cambia el contexto?
+
+Presenta un mismo estímulo en dos contextos visuales diferentes.
+
+Cada experiencia debe incluir:
+
+- Instrucciones.
+- Estímulo.
+- Opciones.
+- Feedback.
+- Explicación.
+- Botón para repetir.
+
+No presentes los resultados como diagnósticos ni como conclusiones científicas individuales.
+
+---
+
+# 13. PÁGINA SENSIA INSIGHTS
+
+Esta sección debe funcionar como una revista digital de investigación y divulgación.
+
+No quiero un blog convencional.
+
+Categorías:
+
+- Investigación.
+- Neuromarketing.
+- Percepción.
+- Comportamiento.
+- Curiosidades.
+
+Incluye:
+
+- Artículo destacado.
+- Últimos artículos.
+- Buscador.
+- Filtros.
+- Etiquetas.
+- Artículos relacionados.
+- Favoritos.
+- Recursos descargables.
+- Newsletter.
+
+## Estructura de los artículos
+
+1. Título.
+2. Introducción.
+3. Pregunta de investigación.
+4. Explicación del fenómeno.
+5. Estudio o evidencia, cuando exista.
+6. Metodología y muestra, cuando estén disponibles.
+7. Hallazgos.
+8. Aplicación al marketing.
+9. Fuentes y referencias.
+
+No inventes investigaciones, porcentajes, resultados ni citas científicas.
+
+Distingue entre:
+
+- Estudios publicados.
+- Artículos divulgativos.
+- Experimentos demostrativos.
+- Opiniones editoriales.
+
+## Newsletter
+
+Título:
+
+**TU DOSIS DE CURIOSIDAD HUMANA.**
+
+Texto:
+
+Ideas, investigaciones y descubrimientos sobre cómo pensamos, sentimos y decidimos.
+
+Incluye:
+
+- Campo de correo.
+- Botón de suscripción.
+- Consentimiento explícito.
+- Política de privacidad.
+- Confirmación cuando exista integración real.
+
+---
+
+# 14. PÁGINA FAQ
+
+Diseña una página de preguntas frecuentes mediante acordeones funcionales.
+
+Preguntas:
+
+- ¿Qué es el neuromarketing y cómo puede ayudar a mi empresa?
+- ¿En qué se diferencia SENSIA LABs de una agencia de marketing tradicional?
+- ¿Qué tipo de empresas pueden trabajar con vosotros?
+- ¿Qué servicios ofrecéis?
+- ¿Cómo es el proceso de investigación?
+- ¿Qué información podemos obtener de nuestros consumidores?
+- ¿Qué técnicas y metodologías utilizáis?
+- ¿Cuánto dura un proyecto?
+- ¿Cómo se presentan los resultados?
+- ¿Cómo puedo solicitar una propuesta?
+
+Las respuestas deben ser profesionales, claras y cercanas.
+
+---
+
+# 15. PÁGINA CONTACTO
+
+Diseña una página enfocada a captar oportunidades comerciales.
+
+Titular:
+
+**¿QUÉ TE GUSTARÍA DESCUBRIR DE TUS CLIENTES?**
+
+El formulario debe estar conectado con el asistente de necesidades.
+
+Si el usuario llega desde el asistente, recupera sus respuestas.
+
+Campos:
+
+- Nombre.
+- Empresa.
+- Correo electrónico.
+- Servicio de interés.
+- Necesidad identificada.
+- Descripción del reto.
+- Presupuesto orientativo, opcional.
+- Consentimiento de privacidad.
+
+Selector de necesidades:
+
+- Comprender mejor a mis consumidores.
+- Investigar mi marca.
+- Evaluar una campaña.
+- Mejorar una experiencia.
+- Investigar un producto.
+- Otro reto.
+
+Incluye:
+
+- Validación.
+- Mensajes de error.
+- Confirmación.
+- Accesibilidad.
+- Preparación para integración con CRM o servicio de formularios.
+
+No simules envíos reales si no existe una integración.
+
+---
+
+# 16. SISTEMA DE INTERACTIVIDAD
+
+Implementa:
+
+- Navegación funcional.
+- Menú móvil.
+- Botones con estados hover y focus.
+- Microinteracciones.
+- Acordeones.
+- Tabs.
+- Filtros.
+- Buscador.
+- Selección de respuestas.
+- Asistente de necesidades.
+- Recomendaciones de servicios.
+- Preguntas de seguimiento.
+- Experimentos de percepción.
+- Feedback inmediato.
+- Favoritos.
+- Formularios validados.
+- Indicadores de progreso.
+- Compartir artículos.
+- Navegación entre artículos.
+
+Cada elemento debe realizar una acción real.
+
+No dejes botones decorativos sin funcionalidad.
+
+No utilices enlaces vacíos.
+
+No animes el logotipo.
+
+No conviertas la web en una secuencia de animaciones.
+
+---
+
+# 17. RESPONSIVE DESIGN
+
+Adapta la web a:
+
+- Escritorio.
+- Tablet.
+- Móvil.
+
+En móvil, reorganiza las composiciones y adapta la animación.
+
+Implementa:
+
+- Menú hamburguesa.
+- Tipografía adaptable.
+- Imágenes optimizadas.
+- Botones táctiles.
+- Interacciones táctiles.
+- Ausencia de desbordamientos horizontales.
+- Motion graphics optimizado.
+- Alternativa estática para movimiento reducido.
+
+La portada debe mantener su personalidad visual en todos los dispositivos.
+
+El asistente de necesidades debe ser especialmente sencillo de utilizar desde móvil.
+
+---
+
+# 18. REQUISITOS TÉCNICOS
+
+Utiliza React, TypeScript y CSS moderno, o una arquitectura compatible con el entorno de Google AI Studio.
+
+Estructura el proyecto de manera escalable.
+
+Requisitos:
+
+- Componentes reutilizables.
+- Rutas independientes.
+- Navegación funcional.
+- CSS organizado.
+- Estados interactivos.
+- Accesibilidad.
+- SEO.
+- Metadatos por página.
+- Imágenes optimizadas.
+- Buen rendimiento.
+- Gestión correcta de errores.
+- Animación eficiente.
+
+El asistente de necesidades debe tener una lógica de recomendación clara, editable y mantenible.
+
+Separa los datos de correspondencias entre necesidades y servicios de los componentes visuales.
+
+Prepara la arquitectura para conectar en el futuro un CRM, sistema de formularios, newsletter o modelo de IA.
+
+No simules conexiones externas que no estén configuradas.
+
+---
+
+# 19. CONTROL DE CALIDAD
+
+Antes de finalizar, comprueba:
+
+## Diseño
+- Respeta el manual de marca.
+- Utiliza los logotipos originales.
+- Respeta la paleta y las tipografías.
+- La jerarquía visual es clara.
+- Las composiciones no están saturadas.
+
+## Navegación
+- Todas las rutas funcionan.
+- Cada página es independiente.
+- El menú funciona.
+- Los enlaces son correctos.
+
+## Interactividad
+- Todos los botones realizan acciones.
+- Los filtros funcionan.
+- Los acordeones funcionan.
+- Los experimentos responden.
+- El asistente de necesidades recomienda servicios correctamente.
+- Las respuestas se conservan al pasar al contacto.
+- Los formularios validan correctamente.
+
+## Motion graphics
+- La animación es fluida.
+- El bucle no presenta saltos.
+- Las transiciones son progresivas.
+- No hay parpadeos.
+- No se sobrecarga el dispositivo.
+- Existe una alternativa accesible.
+
+## Responsive
+- Funciona en escritorio.
+- Funciona en tablet.
+- Funciona en móvil.
+- No hay desbordamientos.
+- Las interacciones táctiles funcionan.
+
+## Contenido
+- No hay datos científicos inventados.
+- No hay clientes ni testimonios ficticios.
+- Los contenidos demostrativos están identificados.
+- La propuesta de valor es clara.
+- Las recomendaciones de servicios no prometen resultados garantizados.
+
+---
+
+# 20. ORDEN DE DESARROLLO
+
+Trabaja por fases para no sacrificar la calidad.
+
+### FASE 1 — HOMEPAGE
+
+Desarrolla el hero con motion graphics, cabecera, navegación y primera dirección de arte.
+
+### FASE 2 — SISTEMA VISUAL
+
+Define tipografías, colores, botones, componentes, navegación y recursos gráficos.
+
+### FASE 3 — ASISTENTE DE NECESIDADES
+
+Implementa el buscador guiado, la correspondencia entre necesidades y servicios, las recomendaciones y la conexión con el contacto.
+
+Esta funcionalidad debe ser completamente operativa.
+
+### FASE 4 — PÁGINAS INTERIORES
+
+Desarrolla servicios, metodología, proyectos, laboratorio, insights, FAQ y contacto.
+
+### FASE 5 — INTERACTIVIDAD
+
+Implementa y prueba todas las funcionalidades.
+
+### FASE 6 — RESPONSIVE Y OPTIMIZACIÓN
+
+Optimiza la web para escritorio, tablet y móvil.
+
+### FASE 7 — CONTROL DE CALIDAD
+
+Comprueba todas las rutas, interacciones y elementos visuales.
+
+---
+
+# 21. RESULTADO FINAL
+
+Quiero una web que combine:
+
+- La personalidad de un estudio creativo digital.
+- La credibilidad de un laboratorio de investigación.
+- La claridad de una consultora estratégica.
+- La estética de una publicación editorial contemporánea.
+- La interactividad de una experiencia digital.
+- La capacidad de orientar a los clientes hacia el servicio adecuado.
+
+La portada debe ser visualmente impactante, protagonizada por una pieza de motion graphics azul, geométrica, abstracta y fluida.
+
+El resto de páginas deben ser limpias, intuitivas y funcionales.
+
+La funcionalidad de descubrimiento de necesidades debe ser una parte central de la experiencia comercial.
+
+El visitante debe poder llegar sin conocimientos técnicos, expresar qué quiere mejorar, descubrir qué podemos investigar y contactar con SENSIA LABs sin tener que empezar de cero.
+
+**No diseñes simplemente una web que explique SENSIA LABs. Diseña una experiencia digital que permita descubrir el universo de SENSIA LABs y que convierta las necesidades de sus visitantes en oportunidades reales de investigación.**

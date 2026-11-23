@@ -1,0 +1,6 @@
+{
+  "name": "SENSIA LABs",
+  "description": "Laboratorio digital de investigación del consumidor, neuromarketing, percepción y experiencia de marca. Entender lo que no siempre se ve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
